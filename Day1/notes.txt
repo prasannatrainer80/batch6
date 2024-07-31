@@ -1,0 +1,101 @@
+Web Application : These are the applications, that which are to be called from various places rather than where they are created. 
+
+If you want to make any distributed or robust applications, then we need the help of web applications. 
+
+You can create web applications in 2 ways as 
+
+1) Scripting Languages : HTML, Javascript, JQeury, CSS, BootStrap,
+
+2) Programming Languages : Java, Python, PHP 
+
+Difference between Scripting Languages and Programming Languages 
+_________________________________________________________________
+
+(I) Scripting languages are languages that which are interpreted, during runtime they 
+takes lot of time to execute. 
+
+(II) Programming languages are langauges that which are compiled first, during runtime they takes very less time to execute. 
+
+HTML (HyperText Markup Language) which allows you to create any sample web pages. 
+
+The syntax to implement HTML is 
+
+<html>
+</html> : Please start with <html> tag each tag needs to be closed 
+
+<head>
+</head> : used to define the global content for the given page. 
+
+<title>
+</title> : Used to display heading on title bar. 
+
+<body>
+</body> : Contains the actual content for the given page. 
+
+<pre> </pre> : This tag used to display content in the same way how we typed. 
+
+<p> </p> : this is called paragraph tag, which start new line always
+
+Definition Language : 
+____________________
+
+Contains definitions and answers for the given context. 
+
+You can create definition language using 
+
+<dl>
+</dl> 
+
+<dt> : Definition Term
+<dd> : Definition Description 
+
+You can add an image to the page, as
+
+<img src="image_name" /> 
+
+Anchor Tag : Used to create links for one page to another. 
+
+<a href="linkPage">Display Text</a>
+
+OL : Order List displays list of values w.r.t. Ordered Format. 
+
+LI : List Item Each item in OL to be represented with LI tag. 
+
+UL : Used to display unordered values. 
+
+<ul>
+
+Types are disc, circle, square
+
+You can accept data from keyboard, then we need the help of forms. 
+
+Forms allows you to accept input from the keyboard, 
+
+You can define forms by using 
+
+<form> 
+
+</form>
+
+To give any headings, please use <label> </label> 
+
+To accept data from the keyboard, then we need
+
+<input type="text" /> 
+
+To perform any actions then we need 
+
+<input type="button" /> 
+
+<input type="submit" /> 
+
+
+
+
+
+
+
+
+
+
+
