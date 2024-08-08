@@ -1,0 +1,18 @@
+body {
+    background-color: blue;
+    color: red;
+}
+
+p {
+    font-size: 32pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+h1 {
+    font-size: 42pt;
+    font-style: italic;
+}
+h3 {
+    font-size: 22pt;
+    font-family: 'Tahoma';
+}
